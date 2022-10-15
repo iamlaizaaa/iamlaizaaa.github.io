@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+body{
+    width: 100%;
+    box-shadow: black;
+
+    
+}
+.kinatibuk-an{
+    width: 80%;
+    border-color: black;
+    height: 1000px;
+    display: inline-flex;
+    justify-content: center;
+    position: relative;
+    box-shadow: 15px 5px 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    min-height: 1000px;
+   
+}
+/*____________ -kinaunahan____________________*/
+.kinaunahan{
+    background-color: rgb(129, 155, 224);
+    width: 50%
+ }
+
+ 
+h1{
+    color:rgb(22, 15, 17)
+    
+}
+h2{
+    color: black;
+}
+
+
+.contactinfo ul{
+    position: relative;
+}
+.contactinfo ul li{
+    position: relative;
+    list-style: none;
+    margin: 5px 0;
+    cursor: pointer;
+}
+.contactinfo ul li .icon{
+    display: inline-block;
+    width: 20px;
+    font-size: 17px;
+    color: black;
+}
+
+ 
+
+
+/*-------------------ikaduha--------*/
+.ikaduha{
+
+
+background-color: rgb(155, 175, 229);
+}
+.FUTURE ul {
+    list-style: none;
+}
